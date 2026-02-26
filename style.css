@@ -27,7 +27,7 @@ img {
     height: 451px;
     border: 5px double #2A8400;
     border-radius: 55px;
-    margin: 38px 111px 38px 111px;
+    margin: 38px 111px 0 111px;
 }
 
 h1{
@@ -44,7 +44,7 @@ h2 {
     margin-left: 111px;
 }
 
-main a{
+main a{    
     background-color: #913FB8;
     border-radius: 55px;
     font-size: 24px;
@@ -52,6 +52,7 @@ main a{
     padding: 15px 44px 15px 44px;
     position: relative;
     left: 411px;
+    top: 38px;
     text-decoration: none;
 }
 
